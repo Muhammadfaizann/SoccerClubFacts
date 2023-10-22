@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Soccer Club Facts</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="shake_txt_eng">Shake the cube!</string>
+	<string name="shake_txt_ru">Потряси кубик!</string>
+
+
+	<string name="lang_txt_eng">Language</string>
+	<string name="lang_txt_ru">Язык</string>
+
+
+	<string name="music_txt_eng">Music</string>
+	<string name="music_txt_ru">Музыка</string>
+
+
+
+	<string name="sound_txt_eng">Sounds</string>
+	<string name="Sound_txt_ru">Звук</string>
+
+	<string name="control_txt_eng">Control</string>
+	<string name="control_txt_ru">Контроль</string>
+
+	<string name="setting_txt_eng">Settings</string>
+	<string name="setting_txt_ru">Настройки</string>
+
+
+
+
+
+	<string name="fact_1_title_eng">\«\"Spartak is the people\'s team\" \» </string>
+	<string name="fact_2_title_eng">\«Why is Spartak meat?\»</string>
+	<string name="fact_3_title_eng">\«35 trophies\»</string>
+	<string name="fact_4_title_eng">\«\"Double\" after \"double\"\»</string>
+	<string name="fact_5_title_eng">\«The Best Academy\»</string>
+	<string name="fact_6_title_eng">\«\“The main Moscow derby\”\»</string>
+	<string name="fact_7_title_eng">\«Life without a stadium\»</string>
+	<string name="fact_8_title_eng">\«72\»</string>
+	<string name="fact_9_title_eng">\«Why \"Zenith\" at all?\»</string>
+	<string name="fact_10_title_eng">\«Best match\»</string>
+	<string name="fact_11_title_eng">\«Worst match\»</string>
+	<string name="fact_12_title_eng">\«Bums\»</string>
+	<string name="fact_13_title_eng">\«From the theater to the stadium\»</string>
+	<string name="fact_14_title_eng">\«Zenit\'s main enemy\»</string>
+
+
+
+	<string name="fact_1_txt_eng"> Ever since Soviet times, this cliché of the Red and White has been widespread. The results of an annual poll conducted by sociologists confirm this public opinion: Spartak Moscow has been in the lead in popularity among domestic soccer clubs for several decades. </string>
+	<string name="fact_2_txt_eng">The history of this nickname dates back to the 1920s. At that time the team played under a less proud name - \"Food workers,\" and was supported by the cooperatives of butchers. And although this \"meat\" nickname was popular among the people, but Spartak players, as well as their fans, did not like it at all. Then, by 1990 the attitude toward \'meat\' began to change, and in 2002 young Dmitry Sychev tore off his jersey after the goal and showed the inscription \'Who are we? Meat\' on his white jersey.</string>
+	<string name="fact_3_txt_eng">Spartak Moscow is the most titled club in Russia: throughout its history, Spartak has won as many as 35 trophies. The Red-Whites also set records for the number of victories in the Russian Championship and the USSR Cup - in general, the Muscovites have a lot to be proud of.</string>
+	<string name="fact_4_txt_eng">Throughout their career, Spartak were able to make six golden \"doubles,\" winning both the championship and the USSR Cup. By the way, Spartak is the only Soviet team to have won the double twice in a row - once in the 1938 season and once in the 1939 season.</string>
+	<string name="fact_5_txt_eng">Spartak\'s academy was voted the best in Moscow in 2014. You certainly know some of the graduates - Yegor Titov, Dmitry Tarasov and Pavel Pogrebnyak. And although many do not continue their careers in the main Spartak team, they definitely show good results in other clubs.</string>
+	<string name="fact_6_txt_eng"> That\'s the name given to what is probably the most important derby between Spartak Moscow and CSKA Moscow, not only in Russian soccer, but in all of Europe. Since 1922, 178 games have been played in which the Red and White have won 78 times.</string>
+	<string name="fact_7_txt_eng">It might seem strange, but for many years Spartak Moscow didn\'t have a stadium of its own. They had to play home games at Lokomotiv and Luzhniki, for example. Finally, the Otkritie Arena stadium was built in 2014 and became Spartak\'s home stadium. It is designed for 45,000 spectators, with the possibility of expansion to 46,000 in connection with the upcoming 2018 FIFA World Cup. It will also host matches of the Confederations Cup in 2017.</string>
+	<string name="fact_8_txt_eng">It\'s impossible to see a player with the number 72 on the field in the Spartak squad. This number is forever assigned to the club\'s fans. And it wasn\'t chosen by chance. The history of Spartak\'s fan movement goes back to 1972. In 2012, when the 40th anniversary was celebrated, it was decided to take the number out of circulation at the club, \"presenting\" it to their loyal fans.</string>
+	<string name="fact_9_txt_eng">\"Zenit\" has been around for almost a century, since 1925. However, the club has not always carried that name. The team was formed on the basis of the Leningrad Metal Plant (LMZ) Stalin\'s physical culture club. The club played its first official match in the Leningrad soccer championship in 1931, and in 1936 it got to the division \"B\" of the first championship of the USSR, where it had the names \"Team Stalin LMZ\" and \"Metal Plant\".
+		In the same year all physical athletes of the plant went under the leadership of the newly created sports society \"Stalinets\". Thus, the name of the club was changed, and uniform received classic white and blue colors. Three years later LMZ were transferred to the People\'s Commissariat of Armaments, under which the sports society \"Zenit\" worked. Since 1940, the players began to play under that name.</string>
+	<string name="fact_10_txt_eng">\"Zenit\" only once scored nine goals against the opponent. That was in the game against Dynamo Moscow in the Cup of Russia. The match ended with a score of 9:3. On several occasions the St. Petersburg team finished 8-1. This was the case with Luch-Energia from Vladivostok in 2008, with Moscow Torpedo in 2014 and with Torpedo from Kutaisi in 1981.</string>
+	<string name="fact_11_txt_eng">The biggest defeat in the history of Zenit was the match against Dynamo Moscow back in 1949. At that time the Blue-White-Blue team were hit eight times, while the players from Leningrad never distinguished themselves. A more recent result was recorded in 2003, when the match with Dinamo ended with a score of 7-1.</string>
+	<string name="fact_12_txt_eng">Zenit fans have been called \"sacks\" by fans of other clubs in the past. There is a legend that the nickname appeared when the St. Petersburg team won the USSR championship for the first time in 1984, in honor of which cellophane bags with the team\'s name were on sale.
+		There is also a coarser nickname \"bumzhi. There are several versions of why it appeared. According to one of them, people of no fixed abode were often seen with Zenit bags, which were thrown on the street. There are also versions that it has to do with the image of marginalized residents of the Northern capital\'s communal flats or with the club\'s unstable play in the 1990s, when the Blue and White were repeatedly relegated from the top league.</string>
+	<string name="fact_13_txt_eng">In the 21st century, actor Konstantin Anisimov is the main announcer at Zenit home games. His voice was heard from 2003 to 2015 and from 2017 to the present. Anisimov works not only at the games of the Bilo-Syni, but also at the Baltiysky Dom Theatre - as an actor. Because of this there have been a few curious situations.
+		For example, it happened that the performances and matches took place at the same time. Once, in \"Hamlet,\" an actor played the role of Laertes, who appears only in Acts One and Three. Since the play is long, during the break Anisimov had time to get to the Petrovsky stadium, which is not far from the theater, and work there in full.
+		In recent years, the management of Zenit has sent a schedule of matches to the Baltiysky Dom, so that the announcer\'s acting activities would not overlap with soccer.</string>
+	<string name="fact_14_txt_eng">Spartak Moscow is considered to be Zenit\'s principal rival, but this was not always the case. The Metropolitan club\'s fans were the first in the USSR to form a full-fledged movement and to travel to their team\'s matches in other cities. This example was also inspired by the Leningrad soccer fans who united for the first time in 1980 to support Zenit on a mass scale.
+		Back in Soviet times fans tried to communicate normally with each other regardless of club affiliation, because there were not too many real fans. Nevertheless, clashes between the sides occasionally occurred even then.
+		The relationship between the two clubs and their fans worsened when coach Pavel Sadyrin, who ran Zenit in the late 1970s and for most of the 1980s, returned to the club. In 1994 he said: \"I came here to go to the top league and beat Spartak.\" Soon the team was able to return to the main championship of the country and win at the first opportunity against Spartak, considered one of the best in Russia.
+		An important event in the feud between the two clubs was the \"Shchelkovo Battle\", held on August 30, 1997. Back then the teams met in Moscow and before the match there was the first mass fight in the history of the fan movement in Russia near the Shchelkovo metro station.
+		More than 500 Zenit fans and about 200 Spartak fans clashed on the way to the stadium on the outskirts of the capital. Although there were more Zenit fans, not everyone was prepared to fight - only a couple dozen people. The supporters of the Bilo-Syni had to flee, which the rest of the Neva fans called a disgrace.</string>
+
+
+
+	<string name="fact_1_title_ru">\«Спартак – народная команда\»	</string>
+	<string name="fact_2_title_ru">Почему \«Спартак\» – мясо?</string>
+	<string name="fact_3_title_ru">35 трофеев</string>
+	<string name="fact_4_title_ru">\«Дубль\» за \«дублем\»</string>
+	<string name="fact_5_title_ru">Лучшая академия</string>
+	<string name="fact_6_title_ru">\«Главное московское дерби\»</string>
+	<string name="fact_7_title_ru">	Жизнь без стадиона</string>
+	<string name="fact_8_title_ru">\«72\»</string>
+	<string name="fact_9_title_ru">А почему вообще \«Зенит\»?</string>
+	<string name="fact_10_title_ru">Лучший матч</string>
+	<string name="fact_11_title_ru">Худший матч</string>
+	<string name="fact_12_title_ru">Бомжи</string>
+	<string name="fact_13_title_ru">Из театра – на стадион</string>
+	<string name="fact_14_title_ru">Главный враг \«Зенита\»</string>
+
+
+	<string name="fact_1_txt_ru">Еще с советских времен было распространено такое клише красно-белых. Результаты опроса, ежегодно проводимого социологами, подтверждают это общественное мнение: московский «Спартак» лидирует по популярности среди отечественных футбольных клубов уже на протяжении нескольких десятилетий.</string>
+	<string name="fact_2_txt_ru">История такого прозвища берет свое начало еще с 1920-ых годов. В ту пору команда выступала под менее гордым названием – \«Пищевики\», и поддерживалась кооперативами мясников. И хотя такое \«мясное\» прозвище было популярным в народе, но спартаковцам, как и их болельщикам, это совершенно не нравилось. Уже потом, к 1990 году, отношение к \«мясу\» стало менятся, а в 2002 году юный Дмитрий Сычев после гола так вообще сорвал с себя футболку и показал всем надпись \«Кто мы? Мясо!\», нанесенную на его белую майку</string>
+	<string name="fact_3_txt_ru">Московский /«Спартак/» – самый титулованный клуб России: за всю свою историю спартаковцы выиграли аж 35 трофеев. Красно-белые еще и установили рекорды по количеству побед в чемпионате России и Кубке СССР – в общем, москвичам есть за что гордится.</string>
+	<string name="fact_4_txt_ru">За всю свою карьеру спартаковцы смогли шесть раз сделать золотые \«дубли\», победив и в чемпионате, и в кубке СССР. Кстати, \«Спартак\» является единственной советской командой, которая два раза подряд выиграла такой \«дубль\» – один раз в сезоне 1938-го года, другой – 1939-го.</string>
+	<string name="fact_5_txt_ru">Академия \«Спартака\» была признана лучшей в Москве в 2014 году. Некоторых выпускников вы уж точно знаете – Егор Титов, Дмитрий Тарасов и Павел Погребняк. И хотя многие не продолжают свою карьеру в главной команде \«Спартака\», но определенно показывают хорошие результаты в других клубах.</string>
+	<string name="fact_6_txt_ru">Именно за таким именем закрепилось название самого, наверное, принципиального дерби между \«Спартаком\» (Москва) и ЦСКА (Москва), причем не только в российском футболе, но и во всей Европе. Начиная с 1922 года было сыграно 178 матчей, в которых красно-белые выигрывали красно-синих 78 раз.</string>
+	<string name="fact_7_txt_ru">Это, наверное, будет странно, но на протяжении многих лет у московского \«Спартака\» не было своего стадиона. Им приходилось играть домашние матчи на, например, \«Локомотиве\» и в \«Лужниках\». Наконец, в 2014 году был построен стадион \«Открытие Арена\», который и стал домашним для спартаковцев. Он рассчитан на 45 тысяч зрителей с возможностью расширения до 46 тысяч в связи с предстоящим чемпионатом мира по футболу 2018 года. На нем также пройдут матчи Кубка конфедераций в 2017 году.</string>
+	<string name="fact_8_txt_ru">В составе \«Спартака\» невозможно увидеть на поле игрока с номером 72. Этот номер навсегда закреплен за болельщиками клуба. А выбран он был не случайно, история спартаковского фанатского движения берет свое начало с 1972 года. В 2012 году, когда отмечался 40-летний юбилей, и было принято решение о том, чтобы вывести номер из обращения в клубе, \«подарив\» его своим верным поклонникам.</string>
+	<string name="fact_9_txt_ru">\«Зенит\» существует почти век, с 1925 года. Однако клуб не всегда носил такое название. Команда сформировалась на основе физкультурного кружка Ленинградского металлического завода (ЛМЗ) имени Сталина. Впервые клуб провел официальный матч в чемпионате Ленинграда по футболу в 1931 году, а уже в 1936 году попал в дивизион \«Б\» первого чемпионата СССР, где у него были имена \«Команда ЛМЗ им. Сталина\» и \«Металлический завод\».
+		В том же году все физкультурники завода перешли под руководство недавно созданного спортивного общества \«Сталинец\». В связи с этим поменялось название клуба, а форма приобрела классические бело-голубые цвета. Спустя три года ЛМЗ передали в ведение Наркомата вооружений, при котором работало спортивное общество \«Зенит\». С 1940 года футболисты начали выступать под таким названием.</string>
+	<string name="fact_10_txt_ru">\«Зенит\» лишь один раз забивал сопернику девять мячей. Это было в игре с московским \«Динамо\» в рамках Кубка России. Матч тогда закончился со счетом 9:3. Несколько раз встречи петербуржцев заканчивались со счетом 8:1. Так было с \«Луч-Энергия\» из Владивостока в 2008 году, с московским \«Торпедо\» в 2014 году и с \«Торпедо\» из Кутаиси в 1981 году.</string>
+	<string name="fact_11_txt_ru">Крупнейшим поражением в истории \«Зенита\» стал матч со столичным \«Динамо\» в далеком 1949 году. Тогда в ворота сине-бело-голубых попали восемь раз, при этом игроки из Ленинграда ни разу не отличились. Более свежий результат зафиксировали в 2003 году, когда матч с \«Динамо\» завершился со счетом 7:1.</string>
+	<string name="fact_12_txt_ru">Болельщиков \«Зенита\» фанаты других клубов в прошлом называли \«мешками\». Есть легенда, что прозвище появилось, когда петербуржцы в 1984 году впервые выиграли чемпионат СССР, в честь чего в продажу поступили целлофановые пакеты с именем команды.
+		Есть и более грубое прозвище \«бомжи\». Существует несколько версий, почему оно появилось. Согласно одной из них, людей без определенного места жительства нередко видели с пакетами \«Зенита\», которые выбрасывали на улицу. Также есть версии, что это связано с образом маргинальных жителей коммуналок Северной столицы или с нестабильной игрой клуба в 90-е годы, когда сине-бело-голубые не раз вылетали из высшей лиги</string>
+	<string name="fact_13_txt_ru">В XXI веке основным диктором на домашних матчах \«Зенита\» работает актер Константин Анисимов. Его голос звучал с 2003 по 2015 год и с 2017 года по настоящее время. Анисимов работает не только на играх сине-бело-голубых, но и в театре \«Балтийский дом\» – в качестве актера. Из-за этого случалось несколько курьезных ситуаций.
+		Например, бывало, что спектакли и матчи проходили в одно и то же время. Однажды в \«Гамлете\» актер исполнял роль Лаэрта, который фигурирует только в первом и в третьем актах. Поскольку спектакль длинный, во время перерыва Анисимов успевал добраться до стадиона \«Петровский\», который находится неподалеку от театра, и полноценно там поработать.
+		В последние годы руководство \«Зенита\» присылает график матчей в \«Балтийский дом\», чтобы актерская деятельность диктора не пересекалась с футболом.</string>
+	<string name="fact_14_txt_ru">Московский \«Спартак\» считается принципиальным соперником \«Зенита\», но так было не всегда. Болельщики столичного клуба первыми в СССР сформировали полноценное движение и стали ездить на матчи своей команды в другие города. Этим примером вдохновились и ленинградские любители футбола, которые в 1980 году впервые объединились для массовой поддержки \«Зенита\».
+		Еще в советское время фанаты старались нормально общаться друг с другом вне зависимости от клубной принадлежности, потому что настоящих болельщиков и так было не очень много. Тем не менее стычки между сторонами периодически происходили и тогда.
+		Отношения двух клубов и их фанатов обострились, когда тренер Павел Садырин, который руководил \«Зенитом\» в конце 70-х и большую часть 80-х годов, вернулся в клуб. В 1994 году он сказал: \«Я пришел сюда, чтобы выйти в высшую лигу и обыграть \«Спартак\». Вскоре команде удалось вернуться в главный чемпионат страны и при первой же возможности победить в матче со \«Спартаком\», считавшимся одним из лучших в России.
+		Важным событием во вражде двух клубов было \«Щелковское побоище\», прошедшее 30 августа 1997 года. Тогда команды встречались в Москве, а перед матчем у станции метро \«Щелково\» случилась первая массовая драка в истории фанатского движения в России.
+		На окраине столицы по дороге к стадиону столкнулись больше 500 болельщиков \«Зенита\» и примерно 200 фанатов \«Спартака\». Хотя петербуржцев были больше, драться были готовы не все – лишь пара десятков человек. Болельщикам сине-бело-голубых пришлось спасаться бегством, что остальные фанаты команды с берегов Невы назвали позором.</string>
+
+	
+	
+	
+	<!--OLD DATA FROM DOCUMENTATIONS:-->
+
+
+<!--<string name="fact_1_title">\«\"Spartak is the people\'s team\" \» </string>
+	<string name="fact_2_title">\«Why is Spartak meat?\»</string>
+	<string name="fact_3_title">\«35 trophies\»</string>
+	<string name="fact_4_title">\«\"Double\" for \"double\"\»</string>
+	<string name="fact_5_title">\«Best Academy\»</string>
+	<string name="fact_6_title">\«\“The main Moscow derby\”\»</string>
+	<string name="fact_7_title">\«Life without a stadium\»</string>
+	<string name="fact_8_title">\«72\»</string>
+	<string name="fact_9_title">\«Why Zenit at all?\»</string>
+	<string name="fact_10_title">\«Best match\»</string>
+	<string name="fact_11_title">\«Worst match\»</string>
+	<string name="fact_12_title">\«Homeless people\»</string>
+	<string name="fact_13_title">\«From the theater to the stadium\»</string>
+	<string name="fact_14_title">\«Zenit\'s main enemy\»</string>-->
+
+
+
+
+	<!--<string name="fact_1_txt">Since Soviet times, such a cliché of red and white has been widespread. The results of a survey conducted annually by sociologists confirm this public opinion: Moscow Spartak has been the leader in popularity among domestic football clubs for several decades.</string>
+	<string name="fact_2_txt">The history of this nickname dates back to the 1920s. At that time, the team performed under a less proud name - \"Pischeviki\", and was supported by cooperatives of butchers. And although such a \"meat\" nickname was popular among the people, the Spartak players, like their fans, did not like it at all. Later, by 1990, the attitude towards “meat” began to change, and in 2002 young Dmitry Sychev, after a goal, took off his shirt and showed everyone the inscription \“Who are we? Meat! \”Printed on his white jersey.</string>
+	<string name="fact_3_txt">Spartak Moscow is the most titled club in Russia: in its entire history, Spartak have won as many as 35 trophies. The red and white also set records for the number of victories in the Russian championship and the USSR Cup - in general, Muscovites have something to be proud of.</string>
+	<string name="fact_4_txt">Throughout their career, Spartak players were able to make gold \"doubles\" six times, winning both the championship and the USSR Cup. By the way, Spartak is the only Soviet team to have won such a double twice in a row - once in the 1938 season, the other in 1939.</string>
+	<string name="fact_5_txt">Spartak Academy was recognized as the best in Moscow in 2014. You certainly know some of the graduates - Yegor Titov, Dmitry Tarasov and Pavel Pogrebnyak. And although many do not continue their careers in the main team of Spartak, they definitely show good results in other clubs.</string>
+	<string name="fact_6_txt">This is the name behind the name of the most probably principled derby between Spartak (Moscow) and CSKA (Moscow), and not only in Russian football, but throughout Europe. Since 1922, 178 matches have been played, in which the red-whites have won the red-blues 78 times.</string>
+	<string name="fact_7_txt">It will probably be strange, but for many years Spartak Moscow did not have its own stadium. They had to play home matches at, for example, Lokomotiv and Luzhniki. Finally, in 2014, the Otkritie Arena stadium was built, which became the home for the Spartak team. It is designed for 45 thousand spectators with the possibility of expanding to 46 thousand in connection with the upcoming 2018 FIFA World Cup. It will also host the 2017 Confederations Cup matches.</string>
+	<string name="fact_8_txt">As part of Spartak it is impossible to see player number 72 on the pitch. This number is forever assigned to the club\'s fans. And he was not chosen by chance, the history of the Spartak fan movement dates back to 1972. In 2012, when the 40th anniversary was celebrated, it was decided to withdraw the number from circulation in the club, \"presenting\" it to their loyal fans.</string>
+	<string name="fact_9_txt">Zenit has existed for almost a century, since 1925. However, the club did not always bear this name. The team was formed on the basis of the sports circle of the Leningrad Metal Plant (LMZ) named after Stalin. For the first time, the club played an official match in the Leningrad football championship in 1931, and already in 1936 it got into the B division of the first USSR championship, where it had the names \“LMZ Team named after Stalin \"and\" Metal Plant \".
+		In the same year, all the athletes of the plant came under the leadership of the newly created sports society \"Stalinets\". In this regard, the name of the club has changed, and the uniform has acquired the classic blue and white colors. Three years later, LMZ was transferred to the jurisdiction of the People\'s Commissariat of Arms, under which the sports society \"Zenith\" worked. Since 1940, football players began to perform under this name.</string>
+	<string name="fact_10_txt">Zenit scored nine goals only once. It was in the game against Dynamo Moscow in the Russian Cup. The match then ended with a score of 9: 3. Several times the meetings of Petersburgers ended with a score of 8: 1. This was the case with \"Luch-Energia\" from Vladivostok in 2008, with the Moscow \"Torpedo\" in 2014 and with the \"Torpedo\" from Kutaisi in 1981.</string>
+	<string name="fact_11_txt">The biggest defeat in Zenit\'s history was the match against the capital Dynamo back in 1949. Then the gates of the blue-white-blue were hit eight times, while the players from Leningrad never distinguished themselves. A more recent result was recorded in 2003, when the match against Dynamo ended with a score of 7: 1.</string>
+	<string name="fact_12_txt">Zenith fans were called \“bags\” by fans of other clubs in the past. There is a legend that the nickname appeared when Petersburgers in 1984 won the USSR championship for the first time, in honor of which plastic bags with the name of the team went on sale.
+		There is also a rougher nickname \"bums\". There are several versions of why it appeared. According to one of them, people without a fixed abode were often seen with Zenit bags, which were thrown into the street. There are also versions that this is due to the image of the marginal residents of communal apartments in the Northern capital or to the unstable game of the club in the 90s, when the blue-white-blue flew out of the major league more than once.</string>
+	<string name="fact_13_txt">In the 21st century, the main announcer at Zenit\'s home matches is the actor Konstantin Anisimov. His voice was heard from 2003 to 2015 and from 2017 to the present. Anisimov works not only in blue-white-blue games, but also in the Baltic House theater - as an actor. Because of this, several curious situations happened.
+		For example, it happened that performances and matches were held at the same time. Once in \"Hamlet\" the actor played the role of Laertes, who appears only in the first and third acts. Since the performance is long, during the break, Anisimov managed to get to the Petrovsky stadium, which is located not far from the theater, and work there fully.
+		In recent years, the management of Zenit has sent the schedule of matches to the Baltic House so that the actor\'s activity of the announcer does not interfere with football.</string>
+	<string name="fact_14_txt">Spartak Moscow is considered Zenit\'s principal rival, but this was not always the case. Fans of the capital\'s club were the first in the USSR to form a full-fledged movement and began to travel to the matches of their team in other cities. This example was also inspired by the Leningrad football fans, who in 1980 for the first time united for the mass support of Zenit.
+		Back in Soviet times, fans tried to communicate normally with each other, regardless of club affiliation, because there weren\'t very many real fans. Nevertheless, skirmishes between the parties periodically occurred then.
+		Relations between the two clubs and their fans escalated when coach Pavel Sadyrin, who led Zenit in the late 70s and most of the 80s, returned to the club. In 1994, he said: \“I came here to advance to the top league and beat Spartak. Soon the team managed to return to the main championship of the country and at the first opportunity to win the match with \"Spartak\", which was considered one of the best in Russia.
+		An important event in the feud between the two clubs was the \"Shchelkovo Battle\", which took place on August 30, 1997. Then the teams met in Moscow, and before the match at the Shchelkovo metro station the first mass brawl in the history of the fan movement in Russia took place.
+		On the outskirts of the capital, on the way to the stadium, more than 500 Zenit fans and about 200 Spartak fans collided. Although there were more Petersburgers, not everyone was ready to fight - only a couple of dozen people. The fans of the blue-white-blue had to flee, which the rest of the team\'s fans from the banks of the Neva called a shame.</string>-->
+</resources>

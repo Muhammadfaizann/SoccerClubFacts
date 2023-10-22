@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>tablet_h-dpi_13_5in_-_api_30</SelectedDevice>
+    <ActiveDebugProfile>tablet_h-dpi_13_5in_-_api_30</ActiveDebugProfile>
+    <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <ProjectView>ProjectFiles</ProjectView>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+    <DefaultDevice>tablet_h-dpi_13_5in_-_api_30</DefaultDevice>
+  </PropertyGroup>
+</Project>

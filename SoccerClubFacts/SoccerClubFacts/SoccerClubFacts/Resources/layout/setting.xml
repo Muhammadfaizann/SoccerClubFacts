@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_1">
+
+
+
+        <TextView
+        android:id="@+id/musicTv"
+
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/music_txt_eng"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="21sp"   
+        
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+   
+        />
+
+    
+
+    <ImageView
+        android:id="@+id/musicImg"
+        android:layout_below="@+id/musicTv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+         android:layout_centerHorizontal="true"
+        
+        android:layout_marginTop="15dp"
+        android:src="@drawable/music_on"/>
+
+
+
+            <TextView
+        android:id="@+id/soundTv"
+       android:layout_below="@id/musicImg"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/sound_txt_eng"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="21sp"   
+        
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+   
+       
+        />
+
+    
+
+    <ImageView
+        android:id="@+id/soundImg"
+        android:layout_below="@+id/soundTv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+         android:layout_centerHorizontal="true"
+        
+        android:layout_marginTop="15dp"
+        android:src="@drawable/sound_on"/>
+
+
+
+                <TextView
+        android:id="@+id/controlTv"
+       android:layout_below="@id/soundImg"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/control_txt_eng"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="21sp"   
+        
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+   
+        />
+
+    
+
+    <ImageView
+        android:id="@+id/controlImg"
+        android:layout_below="@+id/controlTv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+         android:layout_centerHorizontal="true"
+        
+        android:layout_marginTop="15dp"
+        android:src="@drawable/control_1"/>
+
+
+
+
+        <TextView
+        android:id="@+id/settingTv"
+
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/setting_txt_eng"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        
+        android:layout_alignParentBottom="true"
+        android:layout_margin="50dp"
+        
+   
+        />
+
+
+</RelativeLayout>
